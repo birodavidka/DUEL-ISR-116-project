@@ -10,6 +10,8 @@ Az ablakban megadható email és jelszó, valamint egy slider értéke.
 Az adatok egy `userCred` objektumba kerülnek és kiírásra a terminálban.  
 A program tartalmaz saját modult, függvényt és osztályt, a monogrammal ellátva (BD).
 
+A továbbiakban szeretném a Firebase cloud megoldásaival összekötni, valamint kidolgozni valódi atutentikációt, valamint adatbázis CRUD megoldásokat.
+
 ## Modulok és függvények
 
 ### Saját modul: `BD_module.py`
