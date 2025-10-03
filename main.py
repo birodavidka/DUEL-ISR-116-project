@@ -4,7 +4,7 @@ from BD_module import bd_format_email, bd_validate_email, bd_mask_password, BDUs
 
 app = CTk()
 app.title("app")
-app.geometry("400x520")
+app.geometry("850x520")
 set_appearance_mode("light")
 
 userCred = {}
